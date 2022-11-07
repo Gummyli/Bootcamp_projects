@@ -1,2 +1,4 @@
-# Bootcamp_projects
-Data science Batch06
+# Bootcamp Projects
+
+Data science Batch06 with INW 'Toy'
+
